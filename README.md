@@ -1,7 +1,5 @@
 # Hi there, I'm Karthikeyan J 👋
 
-### Full Stack Developer | UI/UX Enthusiast | AI/ML Explorer | IoT Builder
-
 Final-year Electronics and Communication Engineering student passionate about building scalable digital products, intelligent systems, and user-focused web applications.
 
 I enjoy combining **software engineering, machine learning, and interactive design** to solve real-world problems.
